@@ -1,7 +1,8 @@
 module.exports = {
 
     index: (req, res) => {
-        res.send('Hello, World!');
+        res.send("app/views/index");
     }
 
 }
+// app\views\index.handlebars
