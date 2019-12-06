@@ -1,1 +1,1 @@
-# NewsScraper
+# RecipeScraper
